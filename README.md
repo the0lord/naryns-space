@@ -48,7 +48,6 @@ cd naryns-space
 ### 2. Set Up Python Environment
 
 Create and activate a virtual environment:
-
 ```bash
 # Create virtual environment
 python -m venv venv
